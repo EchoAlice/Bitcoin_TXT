@@ -7,8 +7,6 @@ import xlrd
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-
-
 def bitcoin():                                                                          #Parses through API data and pulls the USD bitcoin price value
     
 
